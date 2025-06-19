@@ -15,9 +15,9 @@
 <div align="center"><a href="https://itjh.net/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=杀死人的从来不是挫折而是期待;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
 <br><br>
 <!-- 数据展示-主题&theme=radical-->
-<div align="center">
+<!-- <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itjhDev&theme=radical&hide_border=true" />
-</div>
+</div> -->
 
 <!-- 展示总贡献量，输出图片颜色不一样-->
 <div align="center">
@@ -38,11 +38,6 @@
     <img  src="https://github-profile-trophy.vercel.app/?username=itjhDev&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 </div>
 ---
-
-<!-- <div align="center"> <img src="https://metrics.lecoq.io/itjhDev?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
-
----
-
 ### About My Github
 <div align="center">
   <table style="width:100%;">
