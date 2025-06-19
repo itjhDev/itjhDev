@@ -37,7 +37,9 @@
 <div align="center">
     <img  src="https://github-profile-trophy.vercel.app/?username=itjhDev&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 </div>
+
 ---
+
 ### About My Github
 <div align="center">
   <table style="width:100%;">
