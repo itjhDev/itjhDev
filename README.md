@@ -12,7 +12,7 @@
 
 
 <!-- 个人简介-->
-<div align="center"><a href="https://itjh.net/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=杀死人的从来不是挫折而是期待;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
+<div align="center"><a href="https://itjh.net/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=杀死人的从来不是挫折,而是期待;&center=true&size=27"> </a> </div>
 <br><br>
 <!-- 数据展示-主题&theme=radical-->
 <!-- <div align="center">
